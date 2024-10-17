@@ -1,0 +1,8 @@
+
+
+Focuses on:
+
+1) CRUD Operations: Implementing Create, Read, Update, and Delete Functionality
+2) Data Structures: Using a list to store tasks
+3) File I/O: Persisting tasks using file operations (StreamWriter, StreamReader)
+4) Error Handling: Handling invalid inputs with int.TryParse(), and checks for missing tasks.

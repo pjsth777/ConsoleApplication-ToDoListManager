@@ -1,0 +1,15 @@
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\obj\Debug\net6.0\ToDoListManager.csproj.AssemblyReference.cache
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\obj\Debug\net6.0\ToDoListManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\obj\Debug\net6.0\ToDoListManager.AssemblyInfoInputs.cache
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\obj\Debug\net6.0\ToDoListManager.AssemblyInfo.cs
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\obj\Debug\net6.0\ToDoListManager.csproj.CoreCompileInputs.cache
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\bin\Debug\net6.0\ToDoListManager.exe
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\bin\Debug\net6.0\ToDoListManager.deps.json
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\bin\Debug\net6.0\ToDoListManager.runtimeconfig.json
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\bin\Debug\net6.0\ToDoListManager.dll
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\bin\Debug\net6.0\ToDoListManager.pdb
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\obj\Debug\net6.0\ToDoListManager.dll
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\obj\Debug\net6.0\refint\ToDoListManager.dll
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\obj\Debug\net6.0\ToDoListManager.pdb
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\obj\Debug\net6.0\ToDoListManager.genruntimeconfig.cache
+E:\NewDotnetProjects\Console Applications\ToDoListManager\ToDoListManager\obj\Debug\net6.0\ref\ToDoListManager.dll
